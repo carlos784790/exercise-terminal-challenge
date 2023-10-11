@@ -8,3 +8,4 @@
 * `[rmdir]` remove the "remove-me" folder from the funcode directory
 * `[cd, cat]` print in the screen the-ultimate-joke.txt
 * `[rm]` remove all the contents from the boringfolder, they are extremely boring
+cd
